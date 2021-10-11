@@ -2,9 +2,9 @@
 
 module.exports = {
   url: 'https://lumen.netlify.com',
-  pathPrefix: '/',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  pathPrefix: '/apprentice-blog',
+  title: 'Blog by Carlos Cuevas',
+  subtitle: 'Aprendizajes de las semanas del programa de Apprentice',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
