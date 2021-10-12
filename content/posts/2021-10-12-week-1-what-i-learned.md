@@ -3,7 +3,7 @@ template: post
 title: Week 1 - What I Learned
 slug: wil-week-1
 socialImage: https://www.cofcogroup.com/wp-content/uploads/2019/11/Screen-Shot-2016-02-04-at-1.01.49-PM.png
-draft: true
+draft: false
 date: 2021-10-12T00:24:46.092Z
 description: "Essay about what I learned on the first week of the Encora
   Apprentice Program. Spoiler alert: a lot!"
