@@ -25,7 +25,7 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
+    name: 'Carlos Cuevas',
     photo: '/photo.png',
     bio: 'Computer Science Student. Encora Apprentice program.',
     contacts: {
