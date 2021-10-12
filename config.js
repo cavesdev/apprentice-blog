@@ -1,7 +1,7 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://blog.caves.dev',
   pathPrefix: '/apprentice-blog',
   title: 'Blog by Carlos Cuevas',
   subtitle: 'Aprendizajes de las semanas del programa de Apprentice',
@@ -26,8 +26,8 @@ module.exports = {
   ],
   author: {
     name: 'John Doe',
-    photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    photo: '/photo.png',
+    bio: 'Computer Science Student. Encora Apprentice program.',
     contacts: {
       email: '',
       facebook: '#',
